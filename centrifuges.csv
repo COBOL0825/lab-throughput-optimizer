@@ -1,0 +1,4 @@
+name,mtbf_hours,hours_used,daily_usage_hours,vibration_score,temp_deviation,last_maintenance_days
+Centrifuge A,1500,900,8,0.8,0.4,90
+Centrifuge B,1200,500,6,0.3,0.1,30
+Centrifuge C,1800,1000,7,0.5,0.2,60
